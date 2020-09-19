@@ -1,0 +1,54 @@
+1. 파이썬 쓰는 이유 
+- 공짜, 문서 잘되있음, 어디든 돌아감, 깔끔한 문법, 연관됨(많은 회사가 씀), 지원 잘된ㄴ 툴 
+
+2. 에러 종류 3가지 
+- Syntax Error : 명령 프로그램이 이해 못함
+- Runtime error : 실행은 되나 갑자기 에러 뜨며 종료
+- Semantic error : 에러는 안나는데 올바른 일을 하지 않음 
+
+3. basic 
+() Parentheses(소괄호) 
+{} Braces (중괄호) 
+[] Brackets(대괄호) 
+ 
+4. Values, variables, computer memory //2의 13 
+- value(26), memory address(idl), type(float) 
+
+5. Typecast 
+
+6. help() 
+
+7. 함수 오류 가능성 
+- Number of parameters, Redefinition is ok, Local variables 
+
+8. Docstring //4의 18 
+
+9. Funtion design recipe 
+
+10. Slicing 
+
+11. escape sequence 
+
+12. input 
+
+13. Empty string 
+
+14. Compare Strings : Lexicographically.....
+
+15. if statement 
+
+16. if / elif  & multiple elif 
+
+17. if Boolean variable
+
+18.  모듈이 필요한 이유 
+- 수학자는 공식을 하나하나 증명하지 않고 이미 있는 공식을 사용한다. 
+- 프로그래머 코드 줄이기 생산성 향상 
+
+19. 그냥 함수명 또는 math.pi 다른 설정 
+
+20. import math
+
+21. import random
+
+22. __name__ 
